@@ -1,10 +1,9 @@
-👋 Hi, I’m Silver. 
-💻 I work at [ON24](https://www.on24.ee). 
+👋 Hi, I’m Silver. </br>
+💻 I work at [ON24](https://www.on24.ee). </br>
 🏠 I live in Tallinn, Estonia.
 
-I like to work with:
-
 <p float="left">
+  I like to work with: </br>
   <img src="https://user-images.githubusercontent.com/20640350/204134583-08a27e67-5053-468f-9b0f-6552dc1d8d0f.png" height="18" style="display:inline">
   <img src="https://user-images.githubusercontent.com/20640350/204134594-14692650-4ce6-4acb-891d-51a7acfcb926.png" height="18" style="display:inline">
   <img src="https://user-images.githubusercontent.com/20640350/204134588-c7c71797-f743-4e72-b717-409e10600332.png" height="18" style="display:inline">
