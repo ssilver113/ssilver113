@@ -1,6 +1,7 @@
 👋 Hi, I’m Silver. I work at [ON24](https://www.on24.ee). I live in Tallinn, Estonia.
 
 I like to work with:
+
 ![html](https://user-images.githubusercontent.com/20640350/204134583-08a27e67-5053-468f-9b0f-6552dc1d8d0f.png)
 ![css](https://user-images.githubusercontent.com/20640350/204134594-14692650-4ce6-4acb-891d-51a7acfcb926.png)
 ![saas](https://user-images.githubusercontent.com/20640350/204134588-c7c71797-f743-4e72-b717-409e10600332.png)
@@ -12,3 +13,9 @@ I like to work with:
 ![java](https://user-images.githubusercontent.com/20640350/204134585-76c8455e-464a-4038-bfde-ad7fa08040ad.png)
 ![spring](https://user-images.githubusercontent.com/20640350/204134589-fb3ba9c1-1ebf-479a-8f79-1a783f0c9c67.png)
 ![postgresql](https://user-images.githubusercontent.com/20640350/204134587-bbe76253-bc9c-4e19-bd94-64c2fb34a56c.png)
+
+<style>
+  img { 
+    height: 18px;
+  }
+</style>
