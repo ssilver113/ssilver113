@@ -1,4 +1,6 @@
-👋 Hi, I’m Silver. I work at [ON24](https://www.on24.ee). I live in Tallinn, Estonia.
+👋 Hi, I’m Silver. 
+💻 I work at [ON24](https://www.on24.ee). 
+🏠 I live in Tallinn, Estonia.
 
 I like to work with:
 
